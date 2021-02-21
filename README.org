@@ -14,4 +14,4 @@ In order to start dev server, run this commands in your shell:
 #+end_src
 
 ** Screenshot
-[[file:docs/screenshot.png]]
+[[https://github.com/vinikira/tailwindcss-from-zero-to-production/blob/main/docs/screenshot.png?raw=true]]
