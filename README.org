@@ -2,10 +2,10 @@
 #+author: Vinícius Simões
 #+date: 2021-02-21
 
-* About
+** About
 Repository with codes of playlist [[https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0][Tailwindcss from zero to production]].
 
-* Dev server
+** Dev server
 In order to start dev server, run this commands in your shell:
 
 #+begin_src sh
