@@ -12,3 +12,6 @@ In order to start dev server, run this commands in your shell:
   $ npm install
   $ npm run dev
 #+end_src
+
+** Screenshot
+[[file:docs/screenshot.png]]
